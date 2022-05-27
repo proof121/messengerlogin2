@@ -1,0 +1,92 @@
+Uri: https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\npm\vue@2\dist\vue.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://i.imgur.com/gy0n3H2.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\gy0n3H2.png
+Content Type: image/png
+
+Uri: https://messngertk.blogspot.com/
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\index.htm
+Content Type: text/html
+
+Uri: https://resources.blogblog.com/blogblog/data/res/4268249124-indie_compiled.js
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\blogblog\data\res\4268249124-indie_compiled.js
+Content Type: text/javascript
+
+Uri: https://resources.blogblog.com/img/triangle_open.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\triangle_open.gif
+Content Type: image/gif
+
+Uri: https://resources.blogblog.com/img/triangle_rtl.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\triangle_rtl.gif
+Content Type: image/gif
+
+Uri: https://resources.blogblog.com/img/widgets/s_bottom.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\widgets\s_bottom.png
+Content Type: image/png
+
+Uri: https://resources.blogblog.com/img/widgets/s_top.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\widgets\s_top.png
+Content Type: image/png
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/vue-router@3.4.9/dist/vue-router.js
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\vue-router@3.4.9\dist\vue-router.js
+Content Type: application/javascript
+
+Uri: https://www.blogger.com/img/anon16-rounded.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\anon16-rounded.gif
+Content Type: image/gif
+
+Uri: https://www.blogger.com/img/b16-rounded.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\b16-rounded.gif
+Content Type: image/gif
+
+Uri: https://www.blogger.com/img/icon_delete13.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\icon_delete13.gif
+Content Type: image/gif
+
+Uri: https://www.blogger.com/img/mobile_share_icons4.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\mobile_share_icons4.png
+Content Type: image/png
+
+Uri: https://www.blogger.com/img/openid16-rounded.gif
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\openid16-rounded.gif
+Content Type: image/gif
+
+Uri: https://www.blogger.com/img/share_buttons_20_3.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\share_buttons_20_3.png
+Content Type: image/png
+
+Uri: https://www.blogger.com/img/widgets/icon_wikipedia_search.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\widgets\icon_wikipedia_search.png
+Content Type: image/png
+
+Uri: https://www.blogger.com/img/widgets/stats-flipper.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\img\widgets\stats-flipper.png
+Content Type: image/png
+
+Uri: https://www.blogger.com/static/v1/widgets/1517801070-widgets.js
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\static\v1\widgets\1517801070-widgets.js
+Content Type: text/javascript
+
+Uri: https://www.blogger.com/static/v1/widgets/466517130-widget_css_bundle_rtl.css
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\static\v1\widgets\466517130-widget_css_bundle_rtl.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/images/icons/gplus-32.png
+File Name: C:\Downloaded Web Sites\messngertk.blogspot.com\images\icons\gplus-32.png
+Content Type: image/png
+
